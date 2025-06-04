@@ -54,7 +54,6 @@ You can view the full written report with insights and embedded visuals below:
 - Python
 - Pandas
 - Seaborn & Matplotlib
-- FPDF (for PDF generation)
 - Jupyter Notebook
 
 ---
