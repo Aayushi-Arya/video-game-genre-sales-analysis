@@ -45,7 +45,7 @@ The dataset includes:
 
 You can view the full written report with insights and embedded visuals below:
 
-- [Genre_Sales_Report.pdf](./Genre_Sales_Report.pdf)
+- [Genre_Sales_Report.pdf](./Aayushi_what genres sell.pdf)
 
 ---
 
